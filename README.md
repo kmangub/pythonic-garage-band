@@ -14,3 +14,6 @@ This is a Python console application that will produce a Band with classes. Ther
 
 ### Collaborations
 Alex Angelico and Anthony Beaver
+
+### Pull Request
+https://github.com/kmangub/pythonic-garage-band/pull/2
